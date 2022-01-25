@@ -1,0 +1,5 @@
+module PenguinStatisticsRecognizerCPP [system] {
+    header "PenguinStatisticsRecognizerCPP-Bridging-Header.h"
+    link "opencv2"
+    export *
+}
